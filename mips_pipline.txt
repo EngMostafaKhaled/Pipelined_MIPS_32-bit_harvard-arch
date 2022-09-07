@@ -1,0 +1,13 @@
+I am glad to announce that I have managed to design a Pipelined 32-Bit MIPS Micro-Processor (RISC-Like Harvard Architecture) , Using Verilog as HDL.
+It provides a hazard control unit that handles both data and control hazards by (Forwarding, Stalling, Flushing ).
+The microprocessor was tested to execute the following programs :
+-Factorial number calculator (Here shows factorial of 7! )
+-GCD (Greatest common divisor).
+The design follows The ISA given in a reference that really helped me through implementation: "Digital design and computer architecture" by David M. Harris, With some slight modifications and simple extra instructions.
+
+Here you can find the repo to the project :
+https://lnkd.in/gdWMsMPy
+
+
+Don't forget to star the repo! As I plan to add more sophisticated features to it very soon, God Willing.
+#verilog #Digitaldesign #MIPS
